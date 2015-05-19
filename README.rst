@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 edx_Activity
 ============
 
@@ -15,7 +15,7 @@ This repository contains edX activities:
 
 `Introducing new language into edx
 <https://github.com/MitaliNayak/edx_Activity/blob/master/Introducing_new_language_into_edX.md>`_
-=======
+
 =============
 edx-analytics
 =============
@@ -40,4 +40,3 @@ Future work
 =============
 #. Parse the log when any events gets fire or some content in the log chnages or gets added.
 #. Statistical analysis using R.
->>>>>>> 13ef30298f0d52ef6c8232bb701b2f50df0c4b51
